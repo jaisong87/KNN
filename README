@@ -1,0 +1,6 @@
+This is K nearest neighbout in C++. This is a simple Classifier.
+This project is intended to give support for multiple data-structures to provide efficient 
+classification ( KlogN or better run-time for classification). Another feature to be added is
+support for arbitrary distance functions and also weighted classification. the classifier should 
+also be able to return a confidence parameter so that is useful when using multiple classifiers
+for a task.
